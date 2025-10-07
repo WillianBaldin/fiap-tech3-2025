@@ -10,3 +10,7 @@ Este repositório contém um script para processamento de bases de dados da **PN
 - Gold: Geração de tabelas analíticas, agregações, cruzamentos e visualizações para apoiar estudos sobre sintomas, hospitalizações, acesso à saúde e impacto da COVID-19 na população brasileira.
 
 O script automatiza todo o fluxo, desde a obtenção dos dados até a produção de relatórios e gráficos, facilitando o planejamento e a tomada de decisão baseada em evidências durante a pandemia.
+
+## Desenho da solução
+
+![desenho da solucao](img/desenho_soluc.png)
